@@ -16,11 +16,11 @@
 </p>
 
 <h3 align="center">
-	<a href="#motivation">Motivation</a>
+	<a href="#-motivation">Motivation</a>
 	<span> · </span>
-	<a href="#usage">Usage</a>
+	<a href="#%EF%B8%8F-usage">Usage</a>
 	<span> · </span>
-	<a href="#tips">Tips</a>
+	<a href="#-tips">Tips</a>
 </h3>
 
 ---
